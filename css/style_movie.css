@@ -1,0 +1,30 @@
+dd{
+	font-size: 18px;
+	font-family:Lucida Sans Unicode;
+	margin: 20px;
+}
+
+#list{
+	color: #000000;
+	font-style: italic;
+	font-size: 18px;
+	font-family: Verdana;
+}
+p{
+	font-size: 18px;
+	font-family: calibri;
+	float: right;
+}
+h4{
+	font-size: 23px;
+	font-family: Lucida Sans Unicode;
+	padding: 10px;
+	margin: 5px;
+}
+
+#img {
+	float: left;
+	margin: 0 20px;
+	width: 140px;
+	height: 210px;
+}

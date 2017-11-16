@@ -1,0 +1,19 @@
+body, h1, p, h4{
+	padding: 5px;
+	margin: 5px;
+}
+p{
+	color: #1B282D;
+	font-size: 18px;
+	font-family: verdana;
+}
+html {
+	background-color: #ffffff;
+}
+
+h1{
+	font-family: "Calibri";
+	color: #1B282D;
+	padding: 5px;
+	text-align: center;
+}
